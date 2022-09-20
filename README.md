@@ -1,7 +1,7 @@
-# CoolSwap template
+# GTPSSwap template
 
-### Rinkeby
+### MAINNET
 
-- Factory: 0x6Bd5A1A63ffF10De3c6B7C667040E9AE1B47fDf2
-- Router: 0xA4E1f3fD10E2397f58926E215Ed331D7cDA14056
-- Pair hash: 0xaf88dd15a55596feb9d67243c727bfd6144af12453963809bc91f0cfcf8241bc
+- Factory: 0x6eeB4A7c1Cea697ee7BAF87de3D556bD200691eE
+- Router: 0x2d07585d5f3d79fdf7bb2fc6a6767027a787a8b8
+- Pair hash: 0x0a6604cf955a46b83dab38f88aeabbfe06469a8eace1a55943e9de9ebce40657
